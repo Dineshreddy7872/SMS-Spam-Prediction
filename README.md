@@ -75,21 +75,6 @@ Precision: 99.17%
 
 Excellent at detecting spam with minimal false positives.
 
-🚀 How to Run
-
-Clone this repository
-
-git clone https://github.com/<your-username>/SMS-Spam-Prediction.git
-
-
-Navigate to the project folder
-
-cd SMS-Spam-Prediction
-
-
-Install dependencies
-
-pip install -r requirements.txt
 
 
 Run the Jupyter Notebook or Python file to train/test the model.
